@@ -1,0 +1,1 @@
+This is a fun app that plays off the idea of “autocorrect”.  When a user types in a message, the program will choose through recursion which words to replace.  Then, it will replace the words with similar sounding (but silly) words from my database.  Used Python and Flask for backend, HTML and CSS for frontend.
