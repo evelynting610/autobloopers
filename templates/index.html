@@ -1,0 +1,18 @@
+<!doctype html>
+<title>Search</title>
+<link rel=stylesheet type=text/css href="../static/styles.css">
+<body>
+
+<h1> Autopoopers </h1>
+
+<h3> This fun app takes your message and &lsquo;autocorrects&rsquo; it to a silly one! </h3>
+
+<form action = "/changemessage" method= "post">
+	<input class = submit type = "text" name = "Query" placeholder = "What's up?" required></input>
+</form>
+
+<p> NEW MESSAGE: {{ new_message }} </p>
+
+</body>
+</html>
+
