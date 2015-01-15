@@ -1,0 +1,31 @@
+h1{
+        text-align: center;
+        width: 30%;
+        border: 2px solid #207cca;
+        padding: 10px;
+        margin: auto;
+        background-color: #00BFFF
+}
+
+h3{
+        text-align: center;
+        padding-top: 50px;
+}
+
+p{      width: 45%;
+        text-align: center;
+        margin: auto;
+}
+
+form {
+        padding-left: 10px;
+        width: 500px;
+        height: auto;
+        margin:50px auto;
+}
+.submit {
+        padding:8px 15px;
+        width: 460px;
+        background:rgba(50, 50, 50, 0.2);
+        border:2px solid #207cca;
+}
